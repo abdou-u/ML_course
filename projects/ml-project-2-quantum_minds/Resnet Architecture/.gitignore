@@ -1,0 +1,6 @@
+__pycache__/
+saved_model/b*
+merged_dataset_augmented/*
+new_predictions/*
+epfl_augmented/*
+predict_ai_crowd/*
