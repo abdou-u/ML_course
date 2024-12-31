@@ -105,3 +105,6 @@ ENV/
 *.cb2
 *.fdb_latexmk
 *.synctex.gz
+
+# ignore data
+projects/ml-project-1-quantum-minds/dataset/
